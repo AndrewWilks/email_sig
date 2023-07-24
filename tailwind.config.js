@@ -1,9 +1,7 @@
 module.exports = {
   theme: {
     extend: {
-      screens: {
-        'print': { 'raw': 'print' },
-      },
+      screens: {},
       visibility: ['responsive'],
       spacing: {
         '6': '1.5rem',
