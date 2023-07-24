@@ -40,7 +40,7 @@ module.exports = {
           marginLeft: '1.5rem',
           marginRight: '1.5rem',
         },
-        'li': {
+        'ul li': {
           marginBottom: '1.5rem',
           backgroundColor: '#4a5568',
           padding: '0.75rem 0.5rem',
